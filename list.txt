@@ -1,15 +1,12 @@
 M
 #1 avinash, utkarsh, aaditya
-#2 aman
-#3 saleem, shlok
-#4 manobala, abhishek rohit
-#5 jignesh, devish, nayan
+#2 aman, shlok
+#3 saleem
+#4 manobala
+#5 jignesh, nayan
 #6 antony, pratik
-#7 nagurbabu
-#8 tushar gupta
-#9 taranjeet singh
-#10 abhisheik jadhav, aditya jadhav
+#7 nagurbabu, abhishek rohit
+#8 taranjeet singh, devish
 
 F
 #1 haritha
-#2 flavia
